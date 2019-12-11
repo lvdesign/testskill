@@ -1,0 +1,54 @@
+{
+  "recettes": [
+    {
+      "id": 0,
+      "title": "French Cookies",
+      "description": "Efficient aggregate maximize clicks-and-motar infrastructures communities weblogs best-of-breed blogospheres frictionless interfaces B2C.",
+      "overview": [
+        {
+          "difficulty":3.5,
+          "cost": 2,
+          "Preparation Time": 45,
+          "Cooking Time": 0,
+          "Resting Time": 10
+        }
+      ],
+      "ingredients":[
+        {
+          "serving" : 4,
+          "composition":[
+              { "name": "Tomato", "quantity": 2, "metric": "Piece" },
+              { "name": "Chocolate", "quantity": 300, "metric": "Gram" },
+              { "name": "Flour", "quantity": 150, "metric": "Gram" },
+              { "name": "Milk", "quantity": 25, "metric": "Cl" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Britain Cookies",
+      "description": "Clicks-and-motar infrastructures communities weblogs best-of-breed blogospheres frictionless interfaces B2C.",
+      "overview": [
+        {
+          "difficulty":3.5,
+          "cost": 2,
+          "Preparation Time": 45,
+          "Cooking Time": 0,
+          "Resting Time": 10
+        }
+      ],
+      "ingredients":[
+        {
+          "serving" : 4,
+          "composition":[
+              { "name": "Tomato", "quantity": 2, "metric": "Piece" },
+              { "name": "Chocolate", "quantity": 300, "metric": "Gram" },
+              { "name": "Flour", "quantity": 150, "metric": "Gram" },
+              { "name": "Milk", "quantity": 25, "metric": "Cl" }
+          ]
+        }
+      ]
+    }
+  ]
+}
