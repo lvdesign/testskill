@@ -54,3 +54,5 @@ Pour ce mini projet d'un extrait de page (sans navigation, footer, etc) il faut 
 Le fichier est associé à tout un dossier issu du HTML5 Boilerplate. Il est et il peut être la base (avec un peu de temps et de travail ) d'un très beau et grand site proposant des recettes de cuisine. ;-)
 
 
+
+# Reponses
